@@ -5,3 +5,4 @@ TODO:
 * https://github.com/mannasoumya/vm-go
 * https://github.com/kkestell/tiny-vm
 * https://craftinginterpreters.com/
+* https://github.com/Vexu/bog
