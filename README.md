@@ -6,3 +6,4 @@ TODO:
 * https://github.com/kkestell/tiny-vm
 * https://craftinginterpreters.com/
 * https://github.com/Vexu/bog
+* https://github.com/d5/tengo
